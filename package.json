@@ -26,8 +26,7 @@
     "*.ts?(x)": [
       "eslint",
       "prettier --write"
-    ],
-    "package.json": "npx sort-package-json"
+    ]
   },
   "dependencies": {
     "react": "^18.2.0",
@@ -67,7 +66,6 @@
     "jest-environment-jsdom": "^28.1.1",
     "lint-staged": "^13.0.2",
     "prettier": "^2.7.1",
-    "sort-package-json": "^1.57.0",
     "start-server-and-test": "^1.14.0",
     "ts-jest": "^28.0.5",
     "typescript": "^4.7.4",
